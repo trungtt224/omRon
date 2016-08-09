@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/trantuantrung/AndroidStudioProjects/SimpleDemo/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/trantuantrung/AndroidStudioProjects/SimpleDemo/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/trantuantrung/AndroidStudioProjects/SimpleDemo/app/build/intermediates/res/merged/debug/layout/devices.xml",
+        "source": "/Users/trantuantrung/AndroidStudioProjects/SimpleDemo/app/src/main/res/layout/devices.xml"
+    }
+]
